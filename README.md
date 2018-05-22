@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Outlet
 
-You can use the [editor on GitHub](https://github.com/noumanwaheed/outlet-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Outlet is the biggest clothing store for european manufacturing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Information
 
 ```markdown
-Syntax highlighted code block
+Technologies that have been used while developing the project.
+- Yii 1.1
+- PHP 5.6
+- MySQL 5.6
 
-# Header 1
-## Header 2
-### Header 3
+### Note
+I developed this project when i was entitled as Software Engineer in **Teraception**.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Website](https://www.outlet.co.mz)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For developer's portfolio visit [Official Website](https://noumanwaheed.com).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noumanwaheed/outlet-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to contact the developer? [contact](https://noumanwaheed.com).
