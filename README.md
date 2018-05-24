@@ -6,6 +6,7 @@
 
 ```markdown
 Technologies that have been used while developing the project.
+- Bootstrap 3.1.1
 - Yii 1.1
 - PHP 5.6
 - MySQL 5.6
